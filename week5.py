@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 1. 显示包含名字的标题
-st.title("HELLO，I am [your name]")
+st.title("HELLO，I am [LI ZHANGBIN]")
 
 # 2. 显示子标题“关于我”
 # 使用 subheader 可以让页面结构更清晰
